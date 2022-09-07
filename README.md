@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mixernoboi
 - 👀 i lost access to my old account lol
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me discord: Mixerno#0001
+- 📫 How to reach me discord: nug#0001
 
 <!---
 Mixernoboi/Mixernoboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
